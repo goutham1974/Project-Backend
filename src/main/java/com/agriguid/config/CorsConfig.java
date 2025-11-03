@@ -20,7 +20,7 @@ public class CorsConfig {
         // Add your Vercel domains
         config.setAllowedOrigins(Arrays.asList(
             "http://localhost:3000",
-            "https://project-7695j7208-gouthams-projects-95181b18.vercel.app",
+            "https://project-c6r2ks2cc-gouthams-projects-95181b18.vercel.app",
             "https://*.vercel.app"  // Allow all Vercel preview URLs
         ));
         
